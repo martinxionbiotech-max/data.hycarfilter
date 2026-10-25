@@ -1,6 +1,6 @@
 # Hycarfilter Data
 
-**Canonical product database** for hycarfilter — Hebei Hongying Automotive Parts Co., Ltd. (since 2013, Qinghe County, Xingtai, Hebei).
+**Canonical product database** for hycarfilter — Qinghe County Huiying Auto Parts Co., Ltd. (清河县汇盈汽车零部件有限公司; since 2013, Qinghe County, Xingtai, Hebei).
 
 > **Positioning**: the foundational data layer that is searched, machine-read and cited. This sub-site carries only **structured data / specifications / cross-references**, with zero marketing. Marketing copy and purchasing-decision content live on the main site `hycarfilter.com`; this sub-site is only cited by it and does not duplicate it.
 
