@@ -83,6 +83,7 @@ nav:
           - hy-led-bar: products/hy-led-bar.md
   - Cross-References:
       - Vehicle Fitment: crossref/vehicle-fitment.md
+      - Fitment Completeness: crossref/fitment-completeness.md
       - OE Cross-Reference: crossref/oe-cross-reference.md
       - Export Packing: crossref/export-packing.md
   - Data Specification:
