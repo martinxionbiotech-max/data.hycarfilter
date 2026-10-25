@@ -219,6 +219,7 @@ def gen_index():
                   "All values are rendered from `data/products.json`.")
     text += autogen_note()
     text += f"\n**{len(PRODUCTS)} SKUs across {len(CATS)} categories.**\n\n"
+    text += "> **Commercial catalog** — [View all products &amp; request a quote on hycarfilter.com →](https://hycarfilter.com/products/)\n\n"
     text += table + "\n"
     write("products/index.md", text)
 
@@ -267,6 +268,7 @@ def gen_category(code):
                   f"{len(skus)} SKU(s).")
     text += autogen_note()
     text += "\n" + c["tagline"] + "\n\n"
+    text += f"> **Commercial listing** — [View this category &amp; request a quote on hycarfilter.com →](https://hycarfilter.com/products/{c['slug']}/)\n\n"
     text += f"## SKUs ({len(skus)})\n\n{table}\n\n"
     text += "## Category technical parameters\n\n" + params_table + "\n"
     write(f"products/{c['slug']}.md", text)
@@ -346,7 +348,8 @@ def gen_sku(p):
     text = header(f"{p['name_en']}", f"`{p['model']}`")
     text += autogen_note()
     text += f"\n> Category: **{c['name_en']}** — "
-    text += f"[category page]({c['slug']}.md) · [SKU index](index.md)\n\n"
+    text += f"[category page]({c['slug']}.md) · [SKU index](index.md)\n"
+    text += f"> **Commercial listing** — [View product &amp; request quote on hycarfilter.com →](https://hycarfilter.com/products/{p['model']}/)\n\n"
     text += "## Identification & performance\n\n" + ident + "\n\n"
     text += "## Dimensions\n\n" + dim_table + "\n\n"
     text += "## Materials\n\n" + mat_table + "\n\n"

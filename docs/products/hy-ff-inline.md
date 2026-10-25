@@ -4,6 +4,7 @@
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.
 
 > Category: **Fuel Filter** — [category page](fuel-filter.md) · [SKU index](index.md)
+> **Commercial listing** — [View product &amp; request quote on hycarfilter.com →](https://hycarfilter.com/products/hy-ff-inline/)
 
 ## Identification & performance
 

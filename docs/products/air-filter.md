@@ -5,6 +5,8 @@ Category code `af` · slug `air-filter` · HS Code `8421310000` · 4 SKU(s).
 
 Nano-fiber media, fine pores, strong dust capture to protect the engine and cut maintenance cost.
 
+> **Commercial listing** — [View this category &amp; request a quote on hycarfilter.com →](https://hycarfilter.com/products/air-filter/)
+
 ## SKUs (4)
 
 | Model | Series | Dimensions | Efficiency | Filter media | Housing | Vehicle types | Carton qty | Unit net wt (kg) | HS Code |

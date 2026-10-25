@@ -4,6 +4,7 @@
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.
 
 > Category: **LED Lights** — [category page](led-lights.md) · [SKU index](index.md)
+> **Commercial listing** — [View product &amp; request quote on hycarfilter.com →](https://hycarfilter.com/products/hy-led-h4/)
 
 ## Identification & performance
 

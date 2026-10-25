@@ -5,6 +5,8 @@ Category code `led` · slug `led-lights` · HS Code `8512209000` · 3 SKU(s).
 
 High-brightness LED lighting with direct-fit sockets for headlight upgrades.
 
+> **Commercial listing** — [View this category &amp; request a quote on hycarfilter.com →](https://hycarfilter.com/products/led-lights/)
+
 ## SKUs (3)
 
 | Model | Series | Dimensions | Efficiency | Filter media | Housing | Vehicle types | Carton qty | Unit net wt (kg) | HS Code |

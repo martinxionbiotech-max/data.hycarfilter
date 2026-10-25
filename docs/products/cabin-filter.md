@@ -5,6 +5,8 @@ Category code `cf` · slug `cabin-filter` · HS Code `8421310000` · 3 SKU(s).
 
 Commonly called pollen filter; cleans cabin air drawn from outside for a healthier ride.
 
+> **Commercial listing** — [View this category &amp; request a quote on hycarfilter.com →](https://hycarfilter.com/products/cabin-filter/)
+
 ## SKUs (3)
 
 | Model | Series | Dimensions | Efficiency | Filter media | Housing | Vehicle types | Carton qty | Unit net wt (kg) | HS Code |

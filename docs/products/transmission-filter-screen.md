@@ -5,6 +5,8 @@ Category code `tf` · slug `transmission-filter-screen` · HS Code `8708409990` 
 
 Filters transmission fluid to protect gearbox internals and shift quality.
 
+> **Commercial listing** — [View this category &amp; request a quote on hycarfilter.com →](https://hycarfilter.com/products/transmission-filter-screen/)
+
 ## SKUs (2)
 
 | Model | Series | Dimensions | Efficiency | Filter media | Housing | Vehicle types | Carton qty | Unit net wt (kg) | HS Code |

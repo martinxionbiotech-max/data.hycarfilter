@@ -5,6 +5,8 @@ Category code `of` · slug `oil-filter` · HS Code `8421230000` · 4 SKU(s).
 
 Removes dust, metal debris, carbon and soot from engine oil; bypass valve keeps oil pressure when clogged.
 
+> **Commercial listing** — [View this category &amp; request a quote on hycarfilter.com →](https://hycarfilter.com/products/oil-filter/)
+
 ## SKUs (4)
 
 | Model | Series | Dimensions | Efficiency | Filter media | Housing | Vehicle types | Carton qty | Unit net wt (kg) | HS Code |

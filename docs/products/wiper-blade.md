@@ -5,6 +5,8 @@ Category code `wb` · slug `wiper-blade` · HS Code `8512400000` · 3 SKU(s).
 
 Clears rain from the windshield for clear vision and safe driving.
 
+> **Commercial listing** — [View this category &amp; request a quote on hycarfilter.com →](https://hycarfilter.com/products/wiper-blade/)
+
 ## SKUs (3)
 
 | Model | Series | Dimensions | Efficiency | Filter media | Housing | Vehicle types | Carton qty | Unit net wt (kg) | HS Code |

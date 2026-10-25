@@ -5,6 +5,8 @@ Full index of every SKU in the canonical dataset. All values are rendered from `
 
 **22 SKUs across 7 categories.**
 
+> **Commercial catalog** — [View all products &amp; request a quote on hycarfilter.com →](https://hycarfilter.com/products/)
+
 | Model | Category | Dimensions | Efficiency | Filter media | HS Code |
 |---|---|---|---|---|---|
 | [`hy-af-nano`](hy-af-nano.md) | Air Filter | 280 × 205 × 45 mm | >=99.5% | nano-fiber | `8421310000` |

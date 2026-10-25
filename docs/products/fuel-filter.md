@@ -5,6 +5,8 @@ Category code `ff` · slug `fuel-filter` · HS Code `8421230000` · 3 SKU(s).
 
 Filters fuel impurities to keep fuel clean and the engine running reliably.
 
+> **Commercial listing** — [View this category &amp; request a quote on hycarfilter.com →](https://hycarfilter.com/products/fuel-filter/)
+
 ## SKUs (3)
 
 | Model | Series | Dimensions | Efficiency | Filter media | Housing | Vehicle types | Carton qty | Unit net wt (kg) | HS Code |

@@ -4,6 +4,8 @@
 
 > **Positioning**: the foundational data layer that is searched, machine-read and cited. This sub-site carries only **structured data / specifications / cross-references**, with zero marketing. Marketing copy and purchasing-decision content live on the main site `hycarfilter.com`; this sub-site is only cited by it and does not duplicate it.
 
+> **Commercial catalog &amp; inquiry** — [View all products &amp; request a quote on hycarfilter.com →](https://hycarfilter.com/products/)
+
 ## Coverage
 
 | Dimension | Value |
