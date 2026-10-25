@@ -1,9 +1,9 @@
-# HEPA Cabin Filter · 高效 HEPA 空调滤清器
+# HEPA Cabin Filter
 
 `hy-cf-hepa`
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.
 
-> Category: **Cabin Filter · 空调滤清器** — [category page](cabin-filter.md) · [SKU index](index.md)
+> Category: **Cabin Filter** — [category page](cabin-filter.md) · [SKU index](index.md)
 
 ## Identification & performance
 
@@ -13,8 +13,7 @@
 | Brand | hycarfilter |
 | Category | Cabin Filter (`cf`) |
 | Series | HEPA |
-| Name (EN) | HEPA Cabin Filter |
-| Name (ZH) | 高效 HEPA 空调滤清器 |
+| Name | HEPA Cabin Filter |
 | Data status | seed |
 | Filter media | HEPA composite |
 | Filtration efficiency | >=99.97% (H13) |

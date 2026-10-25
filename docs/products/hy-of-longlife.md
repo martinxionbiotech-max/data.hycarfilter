@@ -1,9 +1,9 @@
-# Long-Life Oil Filter · 长寿命机油滤清器
+# Long-Life Oil Filter
 
 `hy-of-longlife`
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.
 
-> Category: **Oil Filter · 机油滤清器** — [category page](oil-filter.md) · [SKU index](index.md)
+> Category: **Oil Filter** — [category page](oil-filter.md) · [SKU index](index.md)
 
 ## Identification & performance
 
@@ -13,8 +13,7 @@
 | Brand | hycarfilter |
 | Category | Oil Filter (`of`) |
 | Series | Long-Life |
-| Name (EN) | Long-Life Oil Filter |
-| Name (ZH) | 长寿命机油滤清器 |
+| Name | Long-Life Oil Filter |
 | Data status | seed |
 | Filter media | nano composite |
 | Filtration efficiency | >=95% @ 20um |

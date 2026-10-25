@@ -1,9 +1,9 @@
-# Heavy-Duty Oil Filter · 重型机油滤清器
+# Heavy-Duty Oil Filter
 
 `hy-of-hd`
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.
 
-> Category: **Oil Filter · 机油滤清器** — [category page](oil-filter.md) · [SKU index](index.md)
+> Category: **Oil Filter** — [category page](oil-filter.md) · [SKU index](index.md)
 
 ## Identification & performance
 
@@ -13,8 +13,7 @@
 | Brand | hycarfilter |
 | Category | Oil Filter (`of`) |
 | Series | Heavy-Duty |
-| Name (EN) | Heavy-Duty Oil Filter |
-| Name (ZH) | 重型机油滤清器 |
+| Name | Heavy-Duty Oil Filter |
 | Data status | seed |
 | Filter media | glass-enhanced |
 | Filtration efficiency | >=95% @ 20um |

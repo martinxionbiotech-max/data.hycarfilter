@@ -1,9 +1,9 @@
-# Transmission Filter + Gasket Kit · 变速箱滤网套装（滤网+垫片）
+# Transmission Filter + Gasket Kit
 
 `hy-tf-kit`
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.
 
-> Category: **Transmission Filter Screen · 变速箱滤网** — [category page](transmission-filter-screen.md) · [SKU index](index.md)
+> Category: **Transmission Filter Screen** — [category page](transmission-filter-screen.md) · [SKU index](index.md)
 
 ## Identification & performance
 
@@ -13,8 +13,7 @@
 | Brand | hycarfilter |
 | Category | Transmission Filter Screen (`tf`) |
 | Series | Kit |
-| Name (EN) | Transmission Filter + Gasket Kit |
-| Name (ZH) | 变速箱滤网套装（滤网+垫片） |
+| Name | Transmission Filter + Gasket Kit |
 | Data status | seed |
 | Filter media | nylon mesh |
 | Filtration efficiency | >=90% @ 40um |

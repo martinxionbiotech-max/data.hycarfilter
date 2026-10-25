@@ -1,9 +1,9 @@
-# Hybrid Wiper Blade · 复合雨刮器
+# Hybrid Wiper Blade
 
 `hy-wb-hybrid`
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.
 
-> Category: **Wiper Blade · 雨刮器** — [category page](wiper-blade.md) · [SKU index](index.md)
+> Category: **Wiper Blade** — [category page](wiper-blade.md) · [SKU index](index.md)
 
 ## Identification & performance
 
@@ -13,8 +13,7 @@
 | Brand | hycarfilter |
 | Category | Wiper Blade (`wb`) |
 | Series | Hybrid |
-| Name (EN) | Hybrid Wiper Blade |
-| Name (ZH) | 复合雨刮器 |
+| Name | Hybrid Wiper Blade |
 | Data status | seed |
 | Filter media | coated rubber |
 | Filtration efficiency | — |

@@ -1,9 +1,9 @@
-# H7 LED Headlight Bulb · H7 LED 大灯灯泡
+# H7 LED Headlight Bulb
 
 `hy-led-h7`
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.
 
-> Category: **LED Lights · LED 车灯** — [category page](led-lights.md) · [SKU index](index.md)
+> Category: **LED Lights** — [category page](led-lights.md) · [SKU index](index.md)
 
 ## Identification & performance
 
@@ -13,8 +13,7 @@
 | Brand | hycarfilter |
 | Category | LED Lights (`led`) |
 | Series | H7 |
-| Name (EN) | H7 LED Headlight Bulb |
-| Name (ZH) | H7 LED 大灯灯泡 |
+| Name | H7 LED Headlight Bulb |
 | Data status | seed |
 | Filter media | LED |
 | Filtration efficiency | — |

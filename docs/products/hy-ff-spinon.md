@@ -1,9 +1,9 @@
-# Spin-On Fuel Filter · 旋装式燃油滤清器
+# Spin-On Fuel Filter
 
 `hy-ff-spinon`
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.
 
-> Category: **Fuel Filter · 燃油滤清器** — [category page](fuel-filter.md) · [SKU index](index.md)
+> Category: **Fuel Filter** — [category page](fuel-filter.md) · [SKU index](index.md)
 
 ## Identification & performance
 
@@ -13,8 +13,7 @@
 | Brand | hycarfilter |
 | Category | Fuel Filter (`ff`) |
 | Series | Spin-On |
-| Name (EN) | Spin-On Fuel Filter |
-| Name (ZH) | 旋装式燃油滤清器 |
+| Name | Spin-On Fuel Filter |
 | Data status | seed |
 | Filter media | cellulose |
 | Filtration efficiency | >=95% @ 10um |

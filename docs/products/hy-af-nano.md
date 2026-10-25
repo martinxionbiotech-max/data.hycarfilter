@@ -1,9 +1,9 @@
-# Nano-Fiber Panel Air Filter · 纳米纤维板式空气滤清器
+# Nano-Fiber Panel Air Filter
 
 `hy-af-nano`
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.
 
-> Category: **Air Filter · 空气滤清器** — [category page](air-filter.md) · [SKU index](index.md)
+> Category: **Air Filter** — [category page](air-filter.md) · [SKU index](index.md)
 
 ## Identification & performance
 
@@ -13,8 +13,7 @@
 | Brand | hycarfilter |
 | Category | Air Filter (`af`) |
 | Series | Nano |
-| Name (EN) | Nano-Fiber Panel Air Filter |
-| Name (ZH) | 纳米纤维板式空气滤清器 |
+| Name | Nano-Fiber Panel Air Filter |
 | Data status | seed |
 | Filter media | nano-fiber |
 | Filtration efficiency | >=99.5% |

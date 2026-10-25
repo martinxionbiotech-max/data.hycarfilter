@@ -1,9 +1,9 @@
-# Spin-On Oil Filter · 旋装式机油滤清器
+# Spin-On Oil Filter
 
 `hy-of-spinon`
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.
 
-> Category: **Oil Filter · 机油滤清器** — [category page](oil-filter.md) · [SKU index](index.md)
+> Category: **Oil Filter** — [category page](oil-filter.md) · [SKU index](index.md)
 
 ## Identification & performance
 
@@ -13,8 +13,7 @@
 | Brand | hycarfilter |
 | Category | Oil Filter (`of`) |
 | Series | Spin-On |
-| Name (EN) | Spin-On Oil Filter |
-| Name (ZH) | 旋装式机油滤清器 |
+| Name | Spin-On Oil Filter |
 | Data status | seed |
 | Filter media | cellulose |
 | Filtration efficiency | >=90% @ 20um |

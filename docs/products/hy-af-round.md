@@ -1,9 +1,9 @@
-# Round Air Filter · 圆筒式空气滤清器
+# Round Air Filter
 
 `hy-af-round`
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.
 
-> Category: **Air Filter · 空气滤清器** — [category page](air-filter.md) · [SKU index](index.md)
+> Category: **Air Filter** — [category page](air-filter.md) · [SKU index](index.md)
 
 ## Identification & performance
 
@@ -13,8 +13,7 @@
 | Brand | hycarfilter |
 | Category | Air Filter (`af`) |
 | Series | Round |
-| Name (EN) | Round Air Filter |
-| Name (ZH) | 圆筒式空气滤清器 |
+| Name | Round Air Filter |
 | Data status | seed |
 | Filter media | cellulose |
 | Filtration efficiency | >=99.0% |

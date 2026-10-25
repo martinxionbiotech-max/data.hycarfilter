@@ -1,4 +1,4 @@
-# Wiper Blade · 雨刮器
+# Wiper Blade
 
 Category code `wb` · slug `wiper-blade` · HS Code `8512400000` · 3 SKU(s).
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.

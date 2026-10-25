@@ -1,9 +1,9 @@
-# Standard Panel Air Filter · 标准板式空气滤清器
+# Standard Panel Air Filter
 
 `hy-af-panel`
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.
 
-> Category: **Air Filter · 空气滤清器** — [category page](air-filter.md) · [SKU index](index.md)
+> Category: **Air Filter** — [category page](air-filter.md) · [SKU index](index.md)
 
 ## Identification & performance
 
@@ -13,8 +13,7 @@
 | Brand | hycarfilter |
 | Category | Air Filter (`af`) |
 | Series | Panel |
-| Name (EN) | Standard Panel Air Filter |
-| Name (ZH) | 标准板式空气滤清器 |
+| Name | Standard Panel Air Filter |
 | Data status | seed |
 | Filter media | cellulose |
 | Filtration efficiency | >=99.0% |

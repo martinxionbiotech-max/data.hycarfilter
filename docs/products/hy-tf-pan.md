@@ -1,9 +1,9 @@
-# Transmission Pan Filter Screen · 变速箱油底壳滤网
+# Transmission Pan Filter Screen
 
 `hy-tf-pan`
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.
 
-> Category: **Transmission Filter Screen · 变速箱滤网** — [category page](transmission-filter-screen.md) · [SKU index](index.md)
+> Category: **Transmission Filter Screen** — [category page](transmission-filter-screen.md) · [SKU index](index.md)
 
 ## Identification & performance
 
@@ -13,8 +13,7 @@
 | Brand | hycarfilter |
 | Category | Transmission Filter Screen (`tf`) |
 | Series | Pan |
-| Name (EN) | Transmission Pan Filter Screen |
-| Name (ZH) | 变速箱油底壳滤网 |
+| Name | Transmission Pan Filter Screen |
 | Data status | seed |
 | Filter media | nylon mesh |
 | Filtration efficiency | >=90% @ 40um |

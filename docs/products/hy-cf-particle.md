@@ -1,9 +1,9 @@
-# Particle Cabin Filter · 颗粒物空调滤清器
+# Particle Cabin Filter
 
 `hy-cf-particle`
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.
 
-> Category: **Cabin Filter · 空调滤清器** — [category page](cabin-filter.md) · [SKU index](index.md)
+> Category: **Cabin Filter** — [category page](cabin-filter.md) · [SKU index](index.md)
 
 ## Identification & performance
 
@@ -13,8 +13,7 @@
 | Brand | hycarfilter |
 | Category | Cabin Filter (`cf`) |
 | Series | Particle |
-| Name (EN) | Particle Cabin Filter |
-| Name (ZH) | 颗粒物空调滤清器 |
+| Name | Particle Cabin Filter |
 | Data status | seed |
 | Filter media | particle |
 | Filtration efficiency | >=95% |

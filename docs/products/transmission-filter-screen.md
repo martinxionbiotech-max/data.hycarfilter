@@ -1,4 +1,4 @@
-# Transmission Filter Screen · 变速箱滤网
+# Transmission Filter Screen
 
 Category code `tf` · slug `transmission-filter-screen` · HS Code `8708409990` · 2 SKU(s).
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.

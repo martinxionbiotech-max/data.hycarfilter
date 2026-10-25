@@ -1,4 +1,4 @@
-# Cabin Filter · 空调滤清器
+# Cabin Filter
 
 Category code `cf` · slug `cabin-filter` · HS Code `8421310000` · 3 SKU(s).
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.

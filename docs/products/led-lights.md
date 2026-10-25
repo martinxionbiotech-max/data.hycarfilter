@@ -1,4 +1,4 @@
-# LED Lights · LED 车灯
+# LED Lights
 
 Category code `led` · slug `led-lights` · HS Code `8512209000` · 3 SKU(s).
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.

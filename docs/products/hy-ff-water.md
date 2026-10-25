@@ -1,9 +1,9 @@
-# Fuel Water Separator Filter · 油水分离燃油滤清器
+# Fuel Water Separator Filter
 
 `hy-ff-water`
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.
 
-> Category: **Fuel Filter · 燃油滤清器** — [category page](fuel-filter.md) · [SKU index](index.md)
+> Category: **Fuel Filter** — [category page](fuel-filter.md) · [SKU index](index.md)
 
 ## Identification & performance
 
@@ -13,8 +13,7 @@
 | Brand | hycarfilter |
 | Category | Fuel Filter (`ff`) |
 | Series | Water-Separator |
-| Name (EN) | Fuel Water Separator Filter |
-| Name (ZH) | 油水分离燃油滤清器 |
+| Name | Fuel Water Separator Filter |
 | Data status | seed |
 | Filter media | composite |
 | Filtration efficiency | >=97% @ 10um |

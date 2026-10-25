@@ -1,4 +1,4 @@
-# Oil Filter · 机油滤清器
+# Oil Filter
 
 Category code `of` · slug `oil-filter` · HS Code `8421230000` · 4 SKU(s).
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.

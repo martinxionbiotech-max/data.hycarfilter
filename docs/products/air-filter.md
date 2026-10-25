@@ -1,4 +1,4 @@
-# Air Filter · 空气滤清器
+# Air Filter
 
 Category code `af` · slug `air-filter` · HS Code `8421310000` · 4 SKU(s).
 > **Auto-generated** by `scripts/build-db-pages.py` from the canonical dataset `data/products.json` (v0.1.0, 2026-10-25). Do not edit values by hand — edit the dataset, then rebuild.

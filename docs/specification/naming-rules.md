@@ -14,19 +14,19 @@ hy-{category_code}-{series}
 
 Examples: `hy-af-nano`, `hy-of-spinon`, `hy-cf-hepa`, `hy-led-h4`, `hy-ff-water`.
 
-> 注：Phase 1 架构草案曾使用 `HF-` + 3 位序列（如 `HF-AF-001`），已由 `products.json` 的 `hy-{category_code}-{series}` 规范取代；以本页与数据集为准。
+> Note: The Phase 1 architecture draft used a `HF-` + 3-digit sequence (e.g. `HF-AF-001`), which has been superseded by the `hy-{category_code}-{series}` convention in `products.json`; this page and the dataset are authoritative.
 
 ## Category codes
 
-| Code | Category (EN) | Category (ZH) | Slug | HS Code |
-|---|---|---|---|---|
-| `af` | Air Filter | 空气滤清器 | `air-filter` | 8421310000 |
-| `cf` | Cabin Filter | 空调滤清器 | `cabin-filter` | 8421310000 |
-| `of` | Oil Filter | 机油滤清器 | `oil-filter` | 8421230000 |
-| `ff` | Fuel Filter | 燃油滤清器 | `fuel-filter` | 8421230000 |
-| `wb` | Wiper Blade | 雨刮器 | `wiper-blade` | 8512400000 |
-| `tf` | Transmission Filter Screen | 变速箱滤网 | `transmission-filter-screen` | 8708409990 |
-| `led` | LED Lights | LED 车灯 | `led-lights` | 8512209000 |
+| Code | Category (EN) | Slug | HS Code |
+|---|---|---|---|
+| `af` | Air Filter | `air-filter` | 8421310000 |
+| `cf` | Cabin Filter | `cabin-filter` | 8421310000 |
+| `of` | Oil Filter | `oil-filter` | 8421230000 |
+| `ff` | Fuel Filter | `fuel-filter` | 8421230000 |
+| `wb` | Wiper Blade | `wiper-blade` | 8512400000 |
+| `tf` | Transmission Filter Screen | `transmission-filter-screen` | 8708409990 |
+| `led` | LED Lights | `led-lights` | 8512209000 |
 
 ## Series tokens (current)
 

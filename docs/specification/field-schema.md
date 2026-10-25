@@ -68,7 +68,7 @@ All in millimetres; `null` = not applicable for that form factor.
 |---|---|---|---|
 | `inner_box` | string | — | Inner packaging (polybag / color box / sleeve). |
 | `outer_carton` | string | — | Outer carton spec (5-ply / double-wall export carton). |
-| `carton_qty` | integer | units | Units per carton (装箱量). |
+| `carton_qty` | integer | units | Units per carton. |
 | `net_weight_kg` | number | kg | Net weight per unit. |
 
 ## Export & compliance

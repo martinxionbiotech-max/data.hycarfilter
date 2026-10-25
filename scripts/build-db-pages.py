@@ -204,7 +204,7 @@ def gen_index():
         rows.append(
             "| " + " | ".join([
                 link,
-                f"{c['name_en']} ({c['name_zh']})",
+                f"{c['name_en']}",
                 dim_str(p["dimensions"]),
                 eff(p["filtration_efficiency"]),
                 p["media"],
@@ -262,7 +262,7 @@ def gen_category(code):
         params,
     ])
 
-    text = header(f"{c['name_en']} · {c['name_zh']}",
+    text = header(f"{c['name_en']}",
                   f"Category code `{code}` · slug `{c['slug']}` · HS Code `{c['hs_code']}` · "
                   f"{len(skus)} SKU(s).")
     text += autogen_note()
@@ -337,16 +337,15 @@ def gen_sku(p):
         f"| Brand | {p['brand']} |",
         f"| Category | {c['name_en']} (`{c['code']}`) |",
         f"| Series | {p['series']} |",
-        f"| Name (EN) | {p['name_en']} |",
-        f"| Name (ZH) | {p['name_zh']} |",
+        f"| Name | {p['name_en']} |",
         f"| Data status | {p['status']} |",
         f"| Filter media | {p['media']} |",
         f"| Filtration efficiency | {eff(p['filtration_efficiency'])} |",
     ])
 
-    text = header(f"{p['name_en']} · {p['name_zh']}", f"`{p['model']}`")
+    text = header(f"{p['name_en']}", f"`{p['model']}`")
     text += autogen_note()
-    text += f"\n> Category: **{c['name_en']} · {c['name_zh']}** — "
+    text += f"\n> Category: **{c['name_en']}** — "
     text += f"[category page]({c['slug']}.md) · [SKU index](index.md)\n\n"
     text += "## Identification & performance\n\n" + ident + "\n\n"
     text += "## Dimensions\n\n" + dim_table + "\n\n"
