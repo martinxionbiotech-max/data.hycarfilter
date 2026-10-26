@@ -1,0 +1,22 @@
+# Hycarfilter Data — Product Database
+
+> data.hycarfilter.com — Machine-readable product database for hycarfilter.com (automotive filters from the Qinghe cluster, Hebei, China). The single source of truth for product numbers: 7 categories, 22 SKUs with spec schemas, cross-reference tables and packing data. Generated from data/products.json — byte-identical with the main site. Main site: https://hycarfilter.com/ · Contact: martin@hycarfilter.com.
+
+## Core pages
+
+- [Home](https://data.hycarfilter.com/): Database scope and data notes.
+- [SKU Index](https://data.hycarfilter.com/products/): All 22 SKUs in one table (model, category, dimensions, efficiency, material, HS code).
+- [Air Filter](https://data.hycarfilter.com/products/air-filter/): Air filter SKUs with full spec tables.
+- [Cabin Filter](https://data.hycarfilter.com/products/cabin-filter/): Cabin filter SKUs with full spec tables.
+- [Oil Filter](https://data.hycarfilter.com/products/oil-filter/): Oil filter SKUs with full spec tables.
+- [Fuel Filter](https://data.hycarfilter.com/products/fuel-filter/): Fuel filter SKUs with full spec tables.
+- [Wiper Blade](https://data.hycarfilter.com/products/wiper-blade/): Wiper blade SKUs with full spec tables.
+- [Transmission Filter](https://data.hycarfilter.com/products/transmission-filter-screen/): Transmission filter SKUs with full spec tables.
+- [LED Lights](https://data.hycarfilter.com/products/led-lights/): LED headlight SKUs with full spec tables.
+- [Cross-Reference](https://data.hycarfilter.com/cross-reference/): Model ↔ vehicle-type mapping and OE framework tables.
+- [Specification](https://data.hycarfilter.com/specification/): Field schema, naming rules, version log.
+
+## Notes
+
+- Spec values are design reference values; formal spec sheets prevail (see main site Disclaimer).
+- Commercial catalog and inquiry: https://hycarfilter.com/
